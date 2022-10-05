@@ -12,7 +12,7 @@
 
 .page {
     font-family: 'Roboto', sans-serif;
-    min-width: 1920px;
+    min-width: 1440px;
 }
 
 .container {
@@ -254,7 +254,7 @@
 }
 
 .page__header {
-    width: 1920px;
+    min-width: 1650px;
     margin: 0 auto;
     font-size: 16px;
     position: relative;
